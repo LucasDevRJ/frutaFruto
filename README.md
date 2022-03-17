@@ -6,6 +6,8 @@
 
 "Fruta & Fruto" é um projeto feito através da plataforma [Alura](https://alura.com.br), no curso de [Arquitetura CSS: descomplicando os problemas](https://cursos.alura.com.br/course/arquitetura-css). O projeto é sobre receitas mais econômicas, saúdaveis e práticas. O site possui fotos das receitas, layout que combina e bem decorado e foto das criadoras da empresa/site (ficcional).
 
+![Fruta & Fruto gif](/assets/img/fruta%26Fruto.gif)
+
 ![Badje Projeto Fruta & Fruto](https://img.shields.io/badge/Projeto-Fruto&Fruta-green)
 
 ![Badje Projeto Não Autoral](https://img.shields.io/badge/Autoral-N%C3%A3o-green)
