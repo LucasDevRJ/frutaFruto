@@ -8,6 +8,8 @@
 
 ![Fruta & Fruto gif](/assets/img/fruta%26Fruto.gif)
 
+![Badje Projeto Fruta & Fruto](https://img.shields.io/badge/Status-Finalizado-green)
+
 ![Badje Projeto Fruta & Fruto](https://img.shields.io/badge/Projeto-Fruto&Fruta-green)
 
 ![Badje Projeto Não Autoral](https://img.shields.io/badge/Autoral-N%C3%A3o-green)
